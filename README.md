@@ -18,7 +18,7 @@ It also create api server on [http://localhost:9090](http://localhost:9090)
 
 ### `npm start`
 
-It start building CRA folder and hosting it on express server, and also start api server on 9090 PORT.
+It start building CRA `build` and hosting it on express server, and also start api server on 9090 PORT.
 
 ### `npm start:server`
 
