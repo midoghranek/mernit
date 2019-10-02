@@ -1,4 +1,4 @@
-Created By Muhammad Abu 'l-Gharaniq [ghranek.com](https://ghranek.com).
+## MERNIT created by Muhammad Abu 'l-Gharaniq ([ghranek.com](https://ghranek.com)).
 
 ---
 
