@@ -1,11 +1,11 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const port = 9090;
+const port = process.env.PORT || 9090;
 
 app.use(cors());
 
-app.get("/", (req, res) => {
+app.get("/api", (req, res) => {
   res.send("GHRANEK.COM");
 });
 
